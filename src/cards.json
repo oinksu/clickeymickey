@@ -1,0 +1,57 @@
+[
+
+  {
+    "id": 4,
+    "name": "Chavo",
+    "image": "https://www.ecuavisa.com/cdn-cgi/image/width=1600,quality=75/sites/default/files/fotos/2018/12/20/20-12-2018-chavo-del-8.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Kiko",
+    "image": "https://files.lafm.com.co/assets/public/styles/image_631x369/public/2019-07/kiko_0.jpg?itok=-BzU5MAk",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Chilindrina",
+    "image": "https://www.telemundo.com/sites/nbcutelemundo/files/styles/large/public/images/promo/article/2019/07/30/la-chilindrina-television.jpg?itok=YkiBFI3M",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Don Ramon",
+    "image": "https://static.a24.com/media/2019/08/DonRamon_1-700x394.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Bruja del 71",
+    "image": "https://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2017/09/05/bruja_71_subasta_vestido.jpg?itok=DAi285Oq",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "S Barriga",
+    "image": "https://cdn.tn.com.ar/sites/default/files/styles/1366x765/public/2019/05/18/senorito.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "D Florinda",
+    "image": "https://pm1.narvii.com/6272/d733b3fec60c62253e2ad92e973fc90513b6e5c3_hq.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Profesor Jirafales",
+    "image": "https://cdn.heraldodemexico.com.mx/wp-content/uploads/2019/06/17122412/ruben-aguirre-tercer-aniversario-luctuoso.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Ñoño",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/6/6a/%C3%91o%C3%B1o1977.png/revision/latest?cb=20181125070952&path-prefix=protagonist",
+    "count": 0
+  }
+]
